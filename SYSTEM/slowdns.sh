@@ -42,10 +42,10 @@ service sshd restart
 #konfigurasi slowdns
 rm -rf /etc/slowdns
 mkdir -m 777 /etc/slowdns
-wget -q -O /etc/slowdns/server.key "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/SLOWDNS/server.key"
-wget -q -O /etc/slowdns/server.pub "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/SLOWDNS/server.pub"
-wget -q -O /etc/slowdns/sldns-server "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/SLOWDNS/dnstt-server"
-wget -q -O /etc/slowdns/sldns-client "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/SLOWDNS/dnstt-client"
+wget -q -O /etc/slowdns/server.key "https://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/SLOWDNS/server.key"
+wget -q -O /etc/slowdns/server.pub "https://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/SLOWDNS/server.pub"
+wget -q -O /etc/slowdns/sldns-server "https://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/SLOWDNS/dnstt-server"
+wget -q -O /etc/slowdns/sldns-client "https://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/SLOWDNS/dnstt-client"
 cd
 chmod +x /etc/slowdns/server.key
 chmod +x /etc/slowdns/server.pub
