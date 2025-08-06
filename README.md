@@ -1,0 +1,16 @@
+# SCRIPT GENOME 2025
+
+## Cara Install 
+
+# 1. Daftarkan dahulu IP VPS yang telah di pointing di cloudflare disini :
+
+
+ --->>>>     https://github.com/BangJali05/akses/blob/main/ijin
+
+
+# 2. Install Script Gnome pada vps :
+
+```
+ wget -q https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/install && chmod +x install  && ./install
+
+```
