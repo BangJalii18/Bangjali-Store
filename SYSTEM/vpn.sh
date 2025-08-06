@@ -4,7 +4,7 @@
 # By SKT AIO
 # ==================================================
 # Link Hosting Kalian
-HOKAGE="https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/SYSTEM/"
+HOKAGE="https://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/SYSTEM/"
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
@@ -18,7 +18,7 @@ apt install openvpn easy-rsa unzip -y
 apt install openssl iptables iptables-persistent -y
 mkdir -p /etc/openvpn/server/easy-rsa/
 cd /etc/openvpn/
-wget https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/SYSTEM/vpn.zip
+wget https://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/SYSTEM/vpn.zip
 unzip vpn.zip
 rm -f vpn.zip
 chown -R root:root /etc/openvpn/server/easy-rsa/
