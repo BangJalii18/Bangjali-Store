@@ -102,48 +102,48 @@ fun_bar() {
 
 wow() {
 
-wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/menu.sh" && chmod +x /usr/bin/menu
-wget -q -O /usr/bin/update "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/update.sh" && chmod +x /usr/bin/update
-wget -q -O /usr/bin/m-tcp "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/m-tcp.sh" && chmod +x /usr/bin/m-tcp
+wget -q -O /usr/bin/menu "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/menu.sh" && chmod +x /usr/bin/menu
+wget -q -O /usr/bin/update "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/update.sh" && chmod +x /usr/bin/update
+wget -q -O /usr/bin/m-tcp "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/m-tcp.sh" && chmod +x /usr/bin/m-tcp
 
-wget -q -O /usr/bin/m-theme "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/m-theme.sh" && chmod +x /usr/bin/m-theme
-wget -q -O /usr/bin/m-vmess "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/m-vmess.sh" && chmod +x /usr/bin/m-vmess
-wget -q -O /usr/bin/m-vless "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/m-vless.sh" && chmod +x /usr/bin/m-vless
-wget -q -O /usr/bin/m-trojan "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/m-trojan.sh" && chmod +x /usr/bin/m-trojan
+wget -q -O /usr/bin/m-theme "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/m-theme.sh" && chmod +x /usr/bin/m-theme
+wget -q -O /usr/bin/m-vmess "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/m-vmess.sh" && chmod +x /usr/bin/m-vmess
+wget -q -O /usr/bin/m-vless "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/m-vless.sh" && chmod +x /usr/bin/m-vless
+wget -q -O /usr/bin/m-trojan "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/m-trojan.sh" && chmod +x /usr/bin/m-trojan
 
-wget -q -O /usr/bin/system "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/system.sh" && chmod +x /usr/bin/system
-wget -q -O /usr/bin/sshws "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/sshws.sh" && chmod +x /usr/bin/sshws
-wget -q -O /usr/bin/running "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/running.sh" && chmod +x /usr/bin/running
-wget -q -O /usr/bin/cekservice "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/cekservice.sh" && chmod +x /usr/bin/cekservice
-wget -q -O /usr/bin/m-update "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/m-update.sh" && chmod +x /usr/bin/m-update
-wget -q -O /usr/bin/tendang "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/tendang.sh" && chmod +x /usr/bin/tendang
-wget -q -O /usr/bin/check-port "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/check-port.sh" && chmod +x /usr/bin/check-port
+wget -q -O /usr/bin/system "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/system.sh" && chmod +x /usr/bin/system
+wget -q -O /usr/bin/sshws "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/sshws.sh" && chmod +x /usr/bin/sshws
+wget -q -O /usr/bin/running "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/running.sh" && chmod +x /usr/bin/running
+wget -q -O /usr/bin/cekservice "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/cekservice.sh" && chmod +x /usr/bin/cekservice
+wget -q -O /usr/bin/m-update "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/m-update.sh" && chmod +x /usr/bin/m-update
+wget -q -O /usr/bin/tendang "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/tendang.sh" && chmod +x /usr/bin/tendang
+wget -q -O /usr/bin/check-port "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/check-port.sh" && chmod +x /usr/bin/check-port
 
-wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/menu-backup" && chmod +x /usr/bin/menu-backup
-wget -q -O /usr/bin/auto-backup "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/auto-backup.sh" && chmod +x /usr/bin/auto-backup
-wget -q -O /usr/bin/auto-restore "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/auto-restore.sh" && chmod +x /usr/bin/auto-restore
-wget -q -O /usr/bin/manual-backup "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/manual-backup.sh" && chmod +x /usr/bin/manual-backup
-wget -q -O /usr/bin/manual-restore "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/manual-restore.sh" && chmod +x /usr/bin/manual-restore
+wget -q -O /usr/bin/menu-backup "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/menu-backup" && chmod +x /usr/bin/menu-backup
+wget -q -O /usr/bin/auto-backup "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/auto-backup.sh" && chmod +x /usr/bin/auto-backup
+wget -q -O /usr/bin/auto-restore "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/auto-restore.sh" && chmod +x /usr/bin/auto-restore
+wget -q -O /usr/bin/manual-backup "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/manual-backup.sh" && chmod +x /usr/bin/manual-backup
+wget -q -O /usr/bin/manual-restore "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/manual-restore.sh" && chmod +x /usr/bin/manual-restore
 
-wget -q -O /usr/bin/xraylimit "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/xraylimit.sh" && chmod +x /usr/bin/xraylimit
-wget -q -O /usr/bin/trialvmess "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/trialvmess.sh" && chmod +x /usr/bin/trialvmess
-wget -q -O /usr/bin/trialvless "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/trialvless.sh" && chmod +x /usr/bin/trialvless
-wget -q -O /usr/bin/trialtrojan "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/trialtrojan.sh" && chmod +x /usr/bin/trialtrojan
-wget -q -O /usr/bin/trialssh "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/trialssh.sh" && chmod +x /usr/bin/trialssh
-wget -q -O /usr/bin/trial "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/trial.sh" && chmod +x /usr/bin/trial
-wget -q -O /usr/bin/trojan-online "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/trojan-online" && chmod +x /usr/bin/trojan-online
-wget -q -O /usr/bin/ceklimit "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/ceklimit" && chmod +x /usr/bin/ceklimit
-wget -q -O /usr/bin/online "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/online" && chmod +x /usr/bin/online
-wget -q -O /usr/bin/atur-backup "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/atur-backup" && chmod +x /usr/bin/atur-backup
-wget -q -O /usr/bin/online-xray "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/online-xray" && chmod +x /usr/bin/online-xray
-wget -q -O /usr/bin/backup "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/backup" && chmod +x /usr/bin/backup
-wget -q -O /usr/bin/restore "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/restore" && chmod +x /usr/bin/restore
-wget -q -O /usr/bin/admin "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/admin" && chmod +x /usr/bin/admin
-wget -q -O /usr/bin/online-vmess "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/online-vmess" && chmod +x /usr/bin/online-vmess
-wget -q -O /usr/bin/online-vless "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/online-vless" && chmod +x /usr/bin/online-vless
-wget -q -O /usr/bin/online-trojan "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/online-trojan" && chmod +x /usr/bin/online-trojan
-wget -q -O /usr/bin/online-sshws "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/online-sshws" && chmod +x /usr/bin/online-sshws
-wget -q -O /usr/bin/update-usage "https://raw.githubusercontent.com/BangJali05/Store/refs/heads/main/menu/update-usage" && chmod +x /usr/bin/update-usage
+wget -q -O /usr/bin/xraylimit "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/xraylimit.sh" && chmod +x /usr/bin/xraylimit
+wget -q -O /usr/bin/trialvmess "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/trialvmess.sh" && chmod +x /usr/bin/trialvmess
+wget -q -O /usr/bin/trialvless "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/trialvless.sh" && chmod +x /usr/bin/trialvless
+wget -q -O /usr/bin/trialtrojan "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/trialtrojan.sh" && chmod +x /usr/bin/trialtrojan
+wget -q -O /usr/bin/trialssh "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/trialssh.sh" && chmod +x /usr/bin/trialssh
+wget -q -O /usr/bin/trial "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/trial.sh" && chmod +x /usr/bin/trial
+wget -q -O /usr/bin/trojan-online "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/trojan-online" && chmod +x /usr/bin/trojan-online
+wget -q -O /usr/bin/ceklimit "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/ceklimit" && chmod +x /usr/bin/ceklimit
+wget -q -O /usr/bin/online "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/online" && chmod +x /usr/bin/online
+wget -q -O /usr/bin/atur-backup "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/atur-backup" && chmod +x /usr/bin/atur-backup
+wget -q -O /usr/bin/online-xray "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/online-xray" && chmod +x /usr/bin/online-xray
+wget -q -O /usr/bin/backup "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/backup" && chmod +x /usr/bin/backup
+wget -q -O /usr/bin/restore "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/restore" && chmod +x /usr/bin/restore
+wget -q -O /usr/bin/admin "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/admin" && chmod +x /usr/bin/admin
+wget -q -O /usr/bin/online-vmess "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/online-vmess" && chmod +x /usr/bin/online-vmess
+wget -q -O /usr/bin/online-vless "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/online-vless" && chmod +x /usr/bin/online-vless
+wget -q -O /usr/bin/online-trojan "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/online-trojan" && chmod +x /usr/bin/online-trojan
+wget -q -O /usr/bin/online-sshws "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/online-sshws" && chmod +x /usr/bin/online-sshws
+wget -q -O /usr/bin/update-usage "hhttps://raw.githubusercontent.com/BangJalii18/Bangjali-Store/refs/heads/main/menu/update-usage" && chmod +x /usr/bin/update-usage
 
 
 chmod +x m-tcp
