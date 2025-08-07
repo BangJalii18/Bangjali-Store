@@ -14,3 +14,14 @@
  wget -q https://github.com/BangJalii18/Bangjali-Store/raw/refs/heads/main/install && chmod +x install  && ./install
 
 ```
+
+# 3. SCRIPT UPDATE  MENU
+
+# 2. Install Script Gnome pada vps :
+
+```
+cd root
+rm update
+wget -q https://github.com/BangJalii18/Bangjali-Store/raw/refs/heads/main/update && chmod +x update  && ./update
+
+```
