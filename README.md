@@ -17,7 +17,6 @@
 
 # 3. SCRIPT UPDATE  MENU
 
-# 2. Install Script Gnome pada vps :
 
 ```
 cd root
