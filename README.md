@@ -24,3 +24,10 @@ rm update
 wget -q https://github.com/BangJalii18/Bangjali-Store/raw/refs/heads/main/update && chmod +x update  && ./update
 
 ```
+
+
+# 4. AKSES ROOT KE VPS 
+
+```
+  wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/aksesroot.sh && bash aksesroot.sh
+```
