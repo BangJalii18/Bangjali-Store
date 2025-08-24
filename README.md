@@ -26,7 +26,18 @@ wget -q https://github.com/BangJalii18/Bangjali-Store/raw/refs/heads/main/update
 ```
 
 
-# 4. AKSES ROOT KE VPS 
+# 4. REBUILD VPS / INSTALL ULANG VPS
+
+
+```
+cd root
+rm update
+wget -q https://github.com/BangJalii18/Bangjali-Store/raw/refs/heads/main/install-ulang-vps && chmod +x install-ulang-vps  && ./install-ulang-vps
+
+```
+
+
+# 5. AKSES ROOT KE VPS 
 
 ```
   wget -qO- -O aksesroot.sh https://raw.githubusercontent.com/hokagelegend9999/alpha.v2/refs/heads/main/aksesroot.sh && bash aksesroot.sh
